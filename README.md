@@ -36,4 +36,5 @@ Think of it like this:
 
 If you're coding in Java, you need JDK. If you're just running Java apps, JRE is enough!
 
+[Java_Simple_Guide.pdf](https://github.com/user-attachments/files/20854422/Java_Simple_Guide.pdf)
 
